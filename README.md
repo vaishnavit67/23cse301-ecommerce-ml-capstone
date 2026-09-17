@@ -18,7 +18,7 @@ The project follows the complete machine learning workflow:
 | Track | Status | Problem |
 |---|---|---|
 | Regression | To be completed | To be added |
-| Classification | Part A Completed | INN Hotels Group Booking Cancellation Prediction |
+| Classification | Part A Completed | Hotel Booking Cancellation Prediction |
 | Clustering | Planned | To be added |
 
 ---
